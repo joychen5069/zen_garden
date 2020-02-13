@@ -15,9 +15,9 @@ html {
 	}
 body { 
 	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
+	line-height: 5;
 	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	background: rgb(222, 195, 195) url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -54,7 +54,7 @@ abbr {
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
-	margin: 0; 
+	margin: 2; 
 	position: relative;
 	}
 
